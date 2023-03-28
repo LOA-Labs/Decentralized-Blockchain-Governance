@@ -1,6 +1,6 @@
-# LOA Labs’ Best Practices and Key Components of Decentralized Blockchain Governance
-
 ## I. Introduction (Why?)
+
+**Best Practices and Key Components of Decentralized Blockchain Governance**
 
 Digital governance is in and of itself a core innovative product brought into existence by Web3 technology. The creation of guidelines and a knowledgebase of best practices around governance may serve as a valuable resource for Web3 communities and stakeholders.
 
