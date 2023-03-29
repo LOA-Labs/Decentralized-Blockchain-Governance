@@ -1,6 +1,6 @@
 ## II. Developing and Maintaining a Culture of Good Governance (When?)
 
-### A. The importance of creating and maintaing a culture around good governance
+### A. The importance of creating and maintaining a culture around good governance
 * Important for maintaining a healthy and engaged community
 * Good governance culture encourages active participation, transparency, constructive feedback
 
